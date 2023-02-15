@@ -1,0 +1,35 @@
+body {
+  font-family: "Inter";
+  font-style: normal;
+}
+#main {
+  margin: 10vh auto;
+}
+#tooltip {
+  width: 191px;
+  color: #002033;
+}
+#month {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 18px;
+}
+
+#name {
+  display: inline;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+}
+#value {
+  display: inline;
+  font-size: 12px;
+  font-weight: 700;
+  float: right;
+}
+#title {
+  display: inline;
+  line-height: 18px;
+  font-weight: 600;
+  font-size: 12px;
+}
